@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Smarnika 👋
 
-<!--
-**SmarnikaBorkar/SmarnikaBorkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Data Analyst passionate about turning raw data into meaningful insights.
 
-Here are some ideas to get you started:
+## Skills
+• Power BI  
+• SQL  
+• Python  
+• Excel  
+• Data Visualization  
+• Exploratory Data Analysis
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+• Superstore Sales Analysis (Power BI & Excel)  
+• Movies Dataset Analysis (Python)  
+• RSVP Movies Analysis (SQL)  
+• Bank Marketing Campaign Analysis
+
+## Certifications
+• Business Analytics – upGrad x PwC India  
+• Power BI – Infosys Springboard  
+• SQL & Database Management – Infosys Springboard  
+• Python 101 – IBM Cognitive Class
+
+## Location
+Nagpur, India
